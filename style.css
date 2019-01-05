@@ -1,0 +1,6 @@
+.center{
+    height: 90vh; /* 1vh = 1% from the window height */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
